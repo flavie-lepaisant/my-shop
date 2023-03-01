@@ -1,0 +1,15 @@
+.button-pink{
+	padding : 10px;
+	background-color: transparent;
+	border : 2px solid #a35271;
+	color : #a35271;
+	border-radius : 5px;
+	font-size: 20px;
+	margin : 10px
+}
+
+.button-pink:hover{
+	border : 2px solid #a35271;
+	color : whitesmoke;
+	background-color: #a35271;
+}
